@@ -1,0 +1,9 @@
+Saudações. 
+Meu nome é Vinicius do Carmo Cintra Patriota e recentemente comecei a cursar o Curso de Desenvolvimento de Sistemas na Etec Embu, 
+no início meu objetivo era ter esse curso apenas para ter algo no currículo 
+agora estou empolgado para aprender cada vez mais sobre Programação e Banco de Dados. 
+Até o momento a matéria que mais me identifiquei foi Programação Web, ja aprendi vários códigos em C# e JavaScript. 
+Sempre tive dúvidas do que iria ser quando adulto, no momento eu gostaria de seguir a área da biología ou medicina veterinária, porém, 
+para conseguir tal feito eu preciso conseguir me bancar eu preciso de um bom emprego 
+e por isso eu recorri ao curso de DS(Desenvolvimento de Sistemas) que faz parte de TI(Tecnología da Informação) Além de ser um assunto por qual sempre tive interesse.
+ 

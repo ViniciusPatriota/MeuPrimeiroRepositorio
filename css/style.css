@@ -1,0 +1,90 @@
+
+    /*W3SKULL*/
+/* 'ctrl ;' para criar um comentário rápido*/
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100&display=swap');
+*{
+  margin: 5px;
+  padding: 5px;
+  border: 5px;
+}
+    body{
+  background-color:black /*cor do fundo do site*/
+}
+header{
+  background-color:rgb(255, 174, 0);/*cor do cabeçalho*/
+  color: rgb(0, 0, 0);
+  display: flex;/*permite mudar os componentes de local*/
+  flex-direction: column; /*seleciona onde deve ficar cada componente*/
+  align-items: center;/*Alinha os componentes*/
+
+}
+header img{
+  width: 100px; /*tamanho da imagem*/
+  border: 1px solid white;/*formato da borda da imagem*/
+  border-radius: 8px; /*tamanho/espessura da borda da imagem*/
+}
+header nav ul{
+  list-style: none;
+  text-transform:uppercase;
+
+
+}
+  header nav li{
+   display: inline-block;
+   padding: 15px;
+   font-family:fantasy;
+   font-size: large;
+  }
+ 
+  header nav li:hover{
+    background-color: white;
+    color: black;
+    transition: 0.6s;
+    cursor: pointer;
+  
+  }
+  footer{
+    background-color:rgb(255, 174, 0);
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    justify-content: center;
+  }
+  footer ul{
+    list-style: none;
+
+  }
+  footer img{
+    width: 100px;
+  }
+.logos{
+  position: relative;
+}
+  .informacoes{
+    display:flex;
+  }
+  main div div p{
+    color: white;
+    display: flex;
+    font-family: 'Martian Mono', monospace;
+  }
+  .informacoes div{
+    padding-left: 50px;
+  }
+  main h1{
+    color: white;
+    text-align: center;
+    font-family: 'Martian Mono', monospace;
+  }
+  main div h2{
+    font-family: 'Martian Mono', monospace;
+    color:chocolate;
+  }
+  dl dt{
+    color:goldenrod;
+    size-adjust: 50px;
+  }
+   dl dd{
+    color: white;
+  }
